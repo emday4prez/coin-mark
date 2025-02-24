@@ -1,4 +1,3 @@
-//
 //  CoinListView.swift
 //  CoinMark
 
